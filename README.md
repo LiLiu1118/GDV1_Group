@@ -1,6 +1,6 @@
 ### Graphische Datenverarbeitung Projekt
 
-Einlesen von OFF-Dateien und LSA-Dateien
+  / Einlesen von OFF-Dateien und LSA-Dateien
 Nutzung von Vertex Arrays und Vertex Buffer Objects
 Rendering mit OpenGL
 Vergleich verschiedener Beleuchtungsmodelle.
