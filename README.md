@@ -8,7 +8,7 @@
 
     * Rendering mit OpenGL
 
-    * Vergleich verschiedener Beleuchtungsmodelle.
+    * Vergleich verschiedener Beleuchtungsmodelle
     
 ## Ausgewählte Ergebnisse
 ### Flat shader
